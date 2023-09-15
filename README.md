@@ -3,9 +3,9 @@ A Minecraft inspired choose your own adventure game.
 
 Requirments:
 Python 3.9
-Random (For Random Generation)
-Tkinter (For Windows)
-Pygame (For Music)
+Random (For Random Generation) [Automatic]
+Tkinter (For Windows) [Automatic]
+Pygame (For Music) [Manual PIP Install]
 
 Credits:
 Music by C418, Markus Persson and Alan Walker.
