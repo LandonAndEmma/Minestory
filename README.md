@@ -1,14 +1,14 @@
 # Minestory
 A Minecraft inspired choose your own adventure game.
 
-Requirments:\n
-Python 3.9\n
-Random (For Random Generation) [Automatic]\n
-Tkinter (For Windows) [Automatic]\n
-Pygame (For Music) [Manual PIP Install]\n
+Requirments:
+Python 3.9
+Random (For Random Generation) [Automatic]
+Tkinter (For Windows) [Automatic]
+Pygame (For Music) [Manual PIP Install]
 
 Credits:
-Music by C418, Markus Persson and Alan Walker.\n
-Minecraft font, Minecraft dirt block icon, and cobblestone texture by Mojang.\n
-All rights by Mojang and the Python modules.\n
-Idea and code by Landon Perkins.\n
+Music by C418, Markus Persson and Alan Walker.
+Minecraft font, Minecraft dirt block icon, and cobblestone texture by Mojang.
+All rights by Mojang and the Python modules.
+Idea and code by Landon Perkins.
